@@ -1,1 +1,7 @@
-[Talk Like TED [Disc 1]](Talk Like TED [Disc 1])
+# [v0.0.2](https://github.com/littleflute/ebooks2/edit/master/Talk%20Like%20TED/readme.md) [..](..)
+### [Talk Like TED [Disc 1]](Talk Like TED [Disc 1])
+### [Talk Like TED [Disc 2]](Talk Like TED [Disc 2])
+### [Talk Like TED [Disc 3]](Talk Like TED [Disc 3])
+### [Talk Like TED [Disc 4]](Talk Like TED [Disc 4])
+### [Talk Like TED [Disc 5]](Talk Like TED [Disc 5])
+### [Talk Like TED [Disc 6]](Talk Like TED [Disc 6])
